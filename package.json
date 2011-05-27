@@ -1,0 +1,18 @@
+{
+  "author": "Brian Hammond <brian@fictorial.com> (http://fictorial.com)",
+  "name": "deputy-client",
+  "description": "Client for the Deputy job server",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fictorial/node-deputy.git"
+  },
+  "main": "lib/deputy-client.js",
+  "engines": {
+    "node": "0.4.x"
+  },
+  "dependencies": {
+    "json-line-protocol": "0.x.x",
+    "node-uuid": "1.x.x"
+  }
+}
