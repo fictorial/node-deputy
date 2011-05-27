@@ -15,7 +15,7 @@ information on the Deputy Job Server.
 var client = new(require('deputy-client').DeputyClient)(port, host)
 ````
 
-#### method: can_do(handlers)
+#### can_do(handlers)
 
 Job types are the property names of the object `handlers` while the
 handler functions are the values. Such a function is called when the
