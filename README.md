@@ -1,4 +1,4 @@
-# Deputy Client for Node.js
+# Deputy Client for Node.js ![Project Status](http://stillmaintained.com/fictorial/node-deputy.png)
 
 See [Deputy](https://github.com/fictorial/deputy) for 
 information on the Deputy Job Server.
