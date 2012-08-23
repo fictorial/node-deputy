@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/fictorial/node-deputy.png)](http://travis-ci.org/fictorial/node-deputy)
 # Deputy Client for Node.js ![Project Status](http://stillmaintained.com/fictorial/node-deputy.png)
 
 See [Deputy](https://github.com/fictorial/deputy) for 
